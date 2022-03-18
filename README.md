@@ -1,5 +1,4 @@
 # Banger Alert!!
-Final Project with the Fantastic Four
 
 This is Banger Alert, a React front end client that communicates with the Spotify API.
 
